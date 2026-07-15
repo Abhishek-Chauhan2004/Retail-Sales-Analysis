@@ -20,6 +20,10 @@ This project analyzes retail sales data using SQL, Python, Excel and Power BI.
 - Customer behavior analysis
 - Product performance analysis
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](Images/dashboard.png)
+
 ## Author
 Abhishek Chauhan
 Data Analyst
